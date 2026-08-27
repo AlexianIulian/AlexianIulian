@@ -2,11 +2,9 @@
 
 <br/>
 
-**I build things that look real.**
+**AI content production studio.**
 
-Specifically: luxury editorial content for supplement brands, built with Higgsfield Ultra and Claude Code as the production stack.
-
-Currently building **ICARE** — a fisetin supplement brand for the European market. Visual identity, content pipeline, regulatory documentation — all built here, shipping October 2026.
+Luxury editorial content for brands — built on Higgsfield Ultra, orchestrated with Claude Code.
 
 <br/>
 
@@ -15,7 +13,7 @@ Currently building **ICARE** — a fisetin supplement brand for the European mar
 ### Open work
 
 **[`higgsfield-luxury-prompts`](https://github.com/proalexians/higgsfield-luxury-prompts)**  
-A production system for luxury AI content on Higgsfield. Built during real brand production — not theory. Documents the methodology behind content that passes for studio work.
+A production system for luxury AI content on Higgsfield. The methodology behind content that passes for studio work — editorial stills, cinematic reveals, supplement brand production.
 
 <br/>
 
@@ -28,11 +26,10 @@ Generation     →  Higgsfield Ultra  ·  Seedance 2.5  ·  Recraft V4.1  ·  FL
 Orchestration  →  Claude Code  (Sonnet 4.6, effort max)
 Publishing     →  Upload-Post API  →  Instagram  @alexianiulian
 Intelligence   →  ScrapeCreators  ·  VideoAnalyzer  ·  Claude Ads
-Compliance     →  Règl. (UE) 432/2012  ·  CJUE C-386/23  ·  art. 10(3) Règl. 1924/2006
 ```
 
 <br/>
 
 ---
 
-<sub>paris · provence &nbsp;·&nbsp; building ICARE &nbsp;·&nbsp; shipping October 2026</sub>
+<sub>paris · provence</sub>
