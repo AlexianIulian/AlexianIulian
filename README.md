@@ -6,7 +6,7 @@
 
 Specifically: luxury editorial content for supplement brands, built with Higgsfield Ultra and Claude Code as the production stack.
 
-Currently building **ICARE** — a fisetin supplement brand for the European market. Visual identity, content pipeline, regulatory documentation — all built here, shipping October 2026.
+Currently building **ICARE** — a fisetin supplement brand for the European market. Visual identity, content pipeline, regulatory documentation — all built here.
 
 <br/>
 
