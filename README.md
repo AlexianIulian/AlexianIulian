@@ -70,7 +70,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[`higgsfield-luxury-prompts`](https://github.com/Alexian/higgsfield-luxury-prompts)**
+**[`higgsfield-luxury-prompts`](https://github.com/AlexianIulian/higgsfield-luxury-prompts)**
 
 The core production system. Surface taxonomy, lighting models, prompt architecture, Seedance 2.5 motion rules. Built during real brand productions, not theory.
 
@@ -83,7 +83,7 @@ v0.1.0
 </td>
 <td width="50%" valign="top">
 
-**[`higgsfield-fragrance-prompts`](https://github.com/Alexian/higgsfield-fragrance-prompts)**
+**[`higgsfield-fragrance-prompts`](https://github.com/AlexianIulian/higgsfield-fragrance-prompts)**
 
 Fragrance-specific. Three registers — intimate morning, dark opulent, botanical raw. Prompt kits per maison. Tested on Replica, Byredo.
 
