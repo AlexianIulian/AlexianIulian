@@ -44,8 +44,8 @@
 <br/><sub><code>soul_2</code> &nbsp;·&nbsp; luxury &nbsp;·&nbsp; saffron on travertine &nbsp;·&nbsp; raking 15°</sub>
 </td>
 <td width="33%" align="center">
-<img src="generated/belgian-minimal.png" width="100%" alt="Belgian minimal interior — Van Duysen register">
-<br/><sub><code>soul_2</code> &nbsp;·&nbsp; interiors &nbsp;·&nbsp; Belgian minimal &nbsp;·&nbsp; seed 103242</sub>
+<img src="generated/mediterranean-villa.png" width="100%" alt="Villa méditerranéenne — Pantelleria register">
+<br/><sub><code>soul_2</code> &nbsp;·&nbsp; interiors &nbsp;·&nbsp; Pantelleria villa, lime plaster arch &nbsp;·&nbsp; harsh midday light</sub>
 </td>
 <td width="33%" align="center">
 <br/><br/><br/>
