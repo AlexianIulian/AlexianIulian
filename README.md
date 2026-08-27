@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header.svg">
   <source media="(prefers-color-scheme: light)" srcset="header.svg">
-  <img src="header.svg" width="100%" alt="PROALEXIANS">
+  <img src="header.svg" width="100%" alt="ALEXIAN">
 </picture>
 
 <br/>
