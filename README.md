@@ -1,50 +1,21 @@
-<div align="center">
-
-```
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░                                                    ░
- ░          AI × LUXURY. CONTENT. CRAFT.              ░
- ░                                                    ░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-</div>
-
-<div align="center">
-
-![](https://img.shields.io/badge/HIGGSFIELD_ULTRA-active-000000?style=flat-square&labelColor=000000&color=c8a84b)
-![](https://img.shields.io/badge/CLAUDE_CODE-Sonnet_4.6-000000?style=flat-square&labelColor=000000&color=c8a84b)
-![](https://img.shields.io/badge/STACK-Recraft_·_Seedance_·_Flux-000000?style=flat-square&labelColor=000000&color=c8a84b)
-
-</div>
-
----
+<img src="banner.png" width="100%">
 
 <br/>
 
-**I build things at the intersection of AI and luxury brand creation.**
+**I build things that look real.**
 
-Not the kind that looks like AI.  
-The kind that makes people stop scrolling.
+Specifically: luxury editorial content for supplement brands, built with Higgsfield Ultra and Claude Code as the production stack.
 
-<br/>
-
-```
-Current focus
-─────────────────────────────────────────────────────────
-→  AI content studio                      [ in motion ]
-→  Luxury supplement brand                [ building  ]
-→  Higgsfield prompt engineering          [ open src  ]
-```
+Currently building **ICARE** — a fisetin supplement brand for the European market. Visual identity, content pipeline, regulatory documentation — all built here, shipping October 2026.
 
 <br/>
 
 ---
 
-### What I'm shipping
+### Open work
 
 **[`higgsfield-luxury-prompts`](https://github.com/proalexians/higgsfield-luxury-prompts)**  
-Production-grade prompts for luxury editorial AI content. Tested on Higgsfield Ultra — Seedance 2.5, Recraft V4.1, Flux.2 Pro. Built for studios and brands that can't afford to look like everyone else.
+A production system for luxury AI content on Higgsfield. Built during real brand production — not theory. Documents the methodology behind content that passes for studio work.
 
 <br/>
 
@@ -53,19 +24,15 @@ Production-grade prompts for luxury editorial AI content. Tested on Higgsfield U
 ### Stack
 
 ```
-Generation    →  Higgsfield Ultra (Seedance 2.5 · Recraft V4.1 · FLUX.2)
-Orchestration →  Claude Code (Sonnet 4.6 effort max)
-Publishing    →  Upload-Post API → Instagram @alexianiulian
-Intelligence  →  ScrapeCreators · VideoAnalyzer · Claude Ads
-Compliance    →  Règl. (UE) 432/2012 · CJUE C-386/23
+Generation     →  Higgsfield Ultra  ·  Seedance 2.5  ·  Recraft V4.1  ·  FLUX.2 Pro
+Orchestration  →  Claude Code  (Sonnet 4.6, effort max)
+Publishing     →  Upload-Post API  →  Instagram  @alexianiulian
+Intelligence   →  ScrapeCreators  ·  VideoAnalyzer  ·  Claude Ads
+Compliance     →  Règl. (UE) 432/2012  ·  CJUE C-386/23  ·  art. 10(3) Règl. 1924/2006
 ```
 
 <br/>
 
 ---
 
-<div align="center">
-
-`paris / provence` &nbsp;·&nbsp; building quietly &nbsp;·&nbsp; shipping soon
-
-</div>
+<sub>paris · provence &nbsp;·&nbsp; building ICARE &nbsp;·&nbsp; shipping October 2026</sub>
