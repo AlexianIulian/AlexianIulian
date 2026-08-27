@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 120" width="440" height="120">
+  <rect width="440" height="120" rx="6" fill="#0e0e0e"/>
+  <rect width="440" height="120" rx="6" fill="none" stroke="#242424" stroke-width="1"/>
+  <rect x="20" y="20" width="3" height="36" rx="1.5" fill="#9c7ec8"/>
+  <text x="34" y="36" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#f0ebe3" font-weight="500">Seedance 2.5</text>
+  <text x="34" y="52" font-family="'SF Mono','Fira Code',monospace" font-size="10" fill="#555" letter-spacing="1">text2video · cinematic reveal</text>
+  <rect x="20" y="70" width="66" height="18" rx="3" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="53" y="83" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#9c7ec8" text-anchor="middle">8–12 sec</text>
+  <rect x="94" y="70" width="76" height="18" rx="3" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="132" y="83" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#777" text-anchor="middle">slow reveal</text>
+  <rect x="178" y="70" width="64" height="18" rx="3" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="210" y="83" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#777" text-anchor="middle">0–90° rot</text>
+  <rect x="250" y="70" width="60" height="18" rx="3" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="280" y="83" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#777" text-anchor="middle">haze</text>
+  <text x="420" y="36" font-family="'SF Mono','Fira Code',monospace" font-size="10" fill="#3a3a3a" text-anchor="end">4K · 16:9</text>
+  <text x="420" y="52" font-family="'SF Mono','Fira Code',monospace" font-size="10" fill="#3a3a3a" text-anchor="end">motion</text>
+  <text x="20" y="105" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#2e2e2e">product reveal · slow motion · atmospheric haze · cinematic</text>
+</svg>
