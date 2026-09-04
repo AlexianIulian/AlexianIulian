@@ -152,6 +152,58 @@ haute cuisine · Noma · Fäviken
 
 </td>
 <td width="50%" valign="top">
+
+**[`higgsfield-fashion-prompts`](https://github.com/AlexianIulian/higgsfield-fashion-prompts)**
+
+Garment as object. Material before silhouette. System Magazine to Celine — industrial staging, fabric physics, editorial silence.
+
+```
+editorial/  lookbook/  fabric/  reels/
+System Magazine · Celine · Bottega
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`higgsfield-skincare-prompts`](https://github.com/AlexianIulian/higgsfield-skincare-prompts)**
+
+Glass, liquid, and texture as optical problems. Amber translucency, serum in motion, cream surface behavior.
+
+```
+bottles/  texture/  ritual/  reels/
+Aesop · Augustinus Bader · Byredo body
+```
+
+</td>
+<td width="50%" valign="top">
+
+**[`higgsfield-watches-prompts`](https://github.com/AlexianIulian/higgsfield-watches-prompts)**
+
+Three problems unique to horology: polished/brushed transitions, sapphire crystal depth, dial texture at macro. Metal finishing × light map.
+
+```
+dials/  wrist/  flat-lay/  reels/
+Hodinkee · Patek · Royal Oak register
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`seedance-motion-system`](https://github.com/AlexianIulian/seedance-motion-system)**
+
+Seedance 2.5 geometry constraints, motion taxonomy, and the six motion types that work. Void emergence to slow orbit — every prompt tested against the 90° artifact limit.
+
+```
+reveals/  product/  environment/  ingredients/
+void · orbit · drift · atmospheric hold
+```
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
