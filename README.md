@@ -204,6 +204,57 @@ void · orbit · drift · atmospheric hold
 
 </td>
 <td width="50%" valign="top">
+
+**[`higgsfield-automotive-prompts`](https://github.com/AlexianIulian/higgsfield-automotive-prompts)**
+
+Paint depth, wet surface reflection geometry, body panel specular. The prompt system that separates editorial from CGI. Wallpaper* to Robb Report register.
+
+```
+studio/  environment/  detail/  reels/
+wet granite · salt flat · body panel · urban
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`flux-editorial-system`](https://github.com/AlexianIulian/flux-editorial-system)**
+
+FLUX.2 Pro is not a better soul_2. Negative space as argument, shadow geometry, typographic fidelity. The decisions that unlock what FLUX does that nothing else does.
+
+```
+negative-space/  monochrome/  typography/  flat-lay/
+```
+
+</td>
+<td width="50%" valign="top">
+
+**[`higgsfield-seeds`](https://github.com/AlexianIulian/higgsfield-seeds)**
+
+Curated registry of verified production seeds. Same seed, same prompt, same model — same image. Full reproduction specs across all luxury categories.
+
+```
+fragrance · jewellery · gastronomy · interiors
+fashion · skincare · watches · automotive
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`supplement-visual-system`](https://github.com/AlexianIulian/supplement-visual-system)**
+
+Two registers most brands don't know exist: botanical ingredient editorial and product apothecary. The prompt system that builds supplement brands rather than listing them.
+
+```
+botanical/  capsule/  bottle/  reels/
+fisetin · NMN · ashwagandha · dark glass
+```
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
