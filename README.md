@@ -255,6 +255,32 @@ fisetin · NMN · ashwagandha · dark glass
 
 </td>
 <td width="50%" valign="top">
+
+**[`higgsfield-cinema-studio`](https://github.com/AlexianIulian/higgsfield-cinema-studio)**
+
+Cinema Studio 4 has 70+ camera presets. Most are wrong for luxury content. This codebook documents which ones work, how to stack up to 3 movements, and the genre settings that hold the register.
+
+```
+product/  environment/  ingredient/  architecture/
+dolly · orbit · crane · jib · stacking configs
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`soul-id-system`](https://github.com/AlexianIulian/soul-id-system)**
+
+Soul ID methodology for luxury content. Five character archetypes, training specs, consistency constraints. The four-environment campaign system — one face, four images, one story.
+
+```
+profiles/  environments/  campaign/
+quiet client · artisan hand · silhouette · practitioner
+```
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
